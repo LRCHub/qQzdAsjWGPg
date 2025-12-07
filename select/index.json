@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "My Way",
+  "base_artist": "Frank Sinatra",
+  "createdAt": "2025-12-07T15:02:56.882907Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker feat. Sabrina Carpenter & Farruko",
+      "has_synced": true,
+      "path": "select/01_On_My_Way_Alan_Walker_feat._Sabrina_Carpenter_&_Farruko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker;Farruko;Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/02_On_My_Way_Alan_Walker;Farruko;Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On My Way to You",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/03_On_My_Way_to_You_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On My Way (Mixed)",
+      "artist": "Alan Walker & Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/04_On_My_Way_(Mixed)_Alan_Walker_&_Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/05_On_My_Way_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whiskey’d My Way",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/06_Whiskey’d_My_Way_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Way by Nature",
+      "artist": "Fettes Brot",
+      "has_synced": true,
+      "path": "select/07_My_Way_by_Nature_Fettes_Brot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fucked My Way Up To The Top",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/08_Fucked_My_Way_Up_To_The_Top_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I’m On My Way",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/09_I’m_On_My_Way_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everything Goes My Way",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/10_Everything_Goes_My_Way_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Mr. Fingers",
+      "has_synced": false,
+      "path": "select/11_On_My_Way_Mr._Fingers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Find My Way",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/12_Find_My_Way_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Find My Way - Oneohtrix Point Never Remix",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/13_Find_My_Way_-_Oneohtrix_Point_Never_Remix_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Find My Way Home",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/14_I'll_Find_My_Way_Home_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Find My Way Home",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/15_I'll_Find_My_Way_Home_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love My Way",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/16_Love_My_Way_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "This Time (I'm Gonna Try It My Way)",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/17_This_Time_(I'm_Gonna_Try_It_My_Way)_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ultra Violet (Light My Way)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/18_Ultra_Violet_(Light_My_Way)_U2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MY WAY",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/pl_01_MY_WAY_Frank_Sinatra.txt"
+    }
+  ]
+}
